@@ -103,8 +103,17 @@ export const Ch0Content = () => {
       <section>
         <h3 className="section-heading">Module VII: Searching</h3>
         <ul className="section-list">
+          <li>Introduction to Searching</li>
+          <li>Need for Searching</li>
+          <li>Characteristics of Searching</li>
           <li>Linear Search</li>
+          <li>Sentinel Linear Search</li>
           <li>Binary Search</li>
+          <li>Recursive Binary Search</li>
+          <li>Comparison of Searching Techniques</li>
+          <li>Complexity Analysis of Searching Techniques</li>
+          <li>Applications of Searching</li>
+          <li>Advantages and Limitations</li>
         </ul>
       </section>
 
